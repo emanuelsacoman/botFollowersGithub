@@ -4,6 +4,8 @@
 
 É um script simples que segue as pessoas que uma pessoa segue.
 
+![image](https://github.com/EvS444/botFollowersGithub/assets/63565495/7cd4eeda-a360-497b-8b6c-d9a101a644c4)
+
 ## Como funciona?
 
 Simples, você deve apenas colocar seu token e o nome de usuário de alguma pessoa do github:
