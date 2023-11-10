@@ -1,5 +1,7 @@
 # Script para seguir pessoas no Github!
 
+![image](https://github.com/EvS444/botFollowersGithub/assets/63565495/2cfab579-72f7-4e59-9b74-97eb72a2c00b)
+
 ## O que é?
 
 É um script simples que segue as pessoas que uma pessoa segue.
