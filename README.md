@@ -16,7 +16,7 @@ Após isso deve usar o comando **node followUsers.js** e o processo irá começa
 
 ## O que é preciso para fazer funcionar?
 
-Você precisará de um editor de texto, eu usei o [VSCode]([https://nodejs.org/en](https://code.visualstudio.com); no terminal você precisará dar um **npm install axios**; é necessário ter o [Node.js](https://nodejs.org/en) instalado em sua máquina; e, por fim, use o comando **node followUsers.js**, que já foi mencionado.
+Você precisará de um editor de texto, eu usei o [VSCode](https://code.visualstudio.com); no terminal você precisará dar um **npm install axios**; é necessário ter o [Node.js](https://nodejs.org/en) instalado em sua máquina; e, por fim, use o comando **node followUsers.js**, que já foi mencionado.
 
 > [!WARNING]
 > Utilizar esse script muitas vezes em um curto período de tempo pode causar em penalidades em sua conta, como ser considerado spam.
