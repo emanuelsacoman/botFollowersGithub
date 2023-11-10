@@ -11,9 +11,11 @@
 ## Como funciona?
 
 Simples, você deve apenas colocar seu token e o nome de usuário de alguma pessoa do github:
+
 ![image](https://github.com/EvS444/botFollowersGithub/assets/63565495/2701884c-0bf3-4b8e-ba6d-87efca6fa838)
-Tokens no GitHub são chaves de acesso usadas para autenticação segura em operações automatizadas, permitindo que aplicativos acessem recursos em nome do usuário sem expor a senha. Eles garantem permissões específicas, mantendo a segurança das credenciais do usuário.
-> **Nunca compartilhe seu token com ninguém!**
+
+Tokens são chaves de acesso usadas para autenticação segura em operações automatizadas, permitindo que aplicativos acessem recursos em nome do usuário sem expor a senha. Eles garantem permissões específicas, mantendo a segurança das credenciais do usuário.
+> **Nunca compartilhe seus tokens com ninguém!**
 
 Após isso deve usar o comando **node followUsers.js** e o processo irá começar, basta escolher uma pessoa que siga muitas pessoas.
 
