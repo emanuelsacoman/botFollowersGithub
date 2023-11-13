@@ -6,7 +6,7 @@
 
 É um script simples que segue as pessoas que uma pessoa segue.
 
-![image](https://github.com/EvS444/botFollowersGithub/assets/63565495/b23a3d07-9dde-44cf-a7c5-e1f41cd678a9)
+![image](https://github.com/EvS444/botFollowersGithub/assets/63565495/c74a0546-a2f3-40b4-946f-baed9054c680)
 
 ## Como funciona?
 
