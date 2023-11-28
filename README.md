@@ -2,7 +2,7 @@
 
 ![image](https://github.com/EvS444/botFollowersGithub/assets/63565495/2cfab579-72f7-4e59-9b74-97eb72a2c00b)
 
-# ...ou deixar de seguir!
+### ...ou deixar de seguir!
 
 ![image](https://github.com/EvS444/botFollowersGithub/assets/63565495/aba011ce-1c60-4043-9cc0-fc02ad8aaf69)
 
