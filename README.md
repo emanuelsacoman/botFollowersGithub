@@ -2,13 +2,13 @@
 
 ![image](https://github.com/EvS444/botFollowersGithub/assets/63565495/2cfab579-72f7-4e59-9b74-97eb72a2c00b)
 
+![image](https://github.com/EvS444/botFollowersGithub/assets/63565495/3c87c46a-271b-4634-88cb-888853855849)
+
 ## O que é?
 
 É um script simples que segue ou deixa de seguir pessoas no Github.
 
 ![image](https://github.com/EvS444/botFollowersGithub/assets/63565495/83747033-40d8-405c-8805-0a41207042db)
-
-![image](https://github.com/EvS444/botFollowersGithub/assets/63565495/3c87c46a-271b-4634-88cb-888853855849)
 
 ## Como funciona?
 
