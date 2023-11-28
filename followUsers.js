@@ -1,7 +1,7 @@
 const axios = require('axios');
 
-const username = 'nome_do_usuario_que_deseja'; 
-const accessToken = 'seu_token';
+const username = ''; // nome do usuario
+const accessToken = ''; // seu token
 const perPage = 100;
 
 const getUsersFollowed = async () => {
