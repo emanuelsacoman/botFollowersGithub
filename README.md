@@ -31,3 +31,5 @@ Você precisará de um editor de texto, eu usei o [VSCode](https://code.visualst
 
 > [!WARNING]
 > Utilizar esse script muitas vezes em um curto período de tempo pode causar em penalidades em sua conta, como ser considerado spam.
+
+Não se esqueça de deixar uma ⭐ nesse repositório!
